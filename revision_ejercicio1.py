@@ -1,6 +1,7 @@
 cantidad_paciente = 0
 contar_60 = 0
 contar_mas_60 = 0
+contar2 = 0
 
 ingreso_ok = True
 while ingreso_ok:
